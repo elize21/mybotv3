@@ -20,7 +20,7 @@
   "author": "NazwaS",
   "license": "ISC",
   "dependencies": {
-    "@adiwajshing/baileys": "github:adiwajshing/baileys",
+    "@googlechrome/baileys": "github:googlechrome/baileys",
     "@kagchi/kag-api": "^1.5.5",
     "async": "^3.2.0",
     "axios": "^0.21.1",
@@ -47,5 +47,5 @@
   "bugs": {
     "url": "https://github.com/NazwaS/termux-whatsapp-bot/issues"
   },
-  "homepage": "https://github.com/NazwaS/termux-whatsapp-bot#readme"
+  "homepage": "https://github.com/elize21/mybov3"
 }
